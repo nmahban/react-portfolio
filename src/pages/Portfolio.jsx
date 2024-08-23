@@ -5,7 +5,7 @@ import "../css/portfolio.css";
 const projects = [
   {
     title: 'Weather App',
-    image: 'path-to-image.jpg',
+    image: 'src/images/project.png',
     deployedLink: 'https://nmahban.github.io/weatherapp/',
     githubLink: 'https://github.com/nmahban/weatherapp'
   },

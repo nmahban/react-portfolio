@@ -1,19 +1,19 @@
 #react-portfolio
 
 
-Description
+Description:
 We were tasked in our Bootcamp to create a React porfolio from scratch 
 
-Usage
+Usage:
 To use the skills we've learned in class to build out a portfolio using React.
 
 ![alt text](src/images/application.png)
 
 
-Credits
+Credits:
  Stackoverflow, w3schools, https://docs.netlify.com/
 
-License
+License:
 None
 
 Questions:

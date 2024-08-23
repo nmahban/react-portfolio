@@ -1,0 +1,56 @@
+#resume {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  a {
+    display: inline-block;
+    background-color: #ff6f61;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    transition: background-color 0.3s;
+  }
+  
+  a:hover {
+    background-color: #e55b4e;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    font-size: 1.1rem;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  @media (max-width: 768px) {
+    #resume {
+      padding: 20px;
+    }
+  
+    a {
+      font-size: 1rem;
+      padding: 8px 16px;
+    }
+  
+    li {
+      font-size: 1rem;
+    }
+  }
+  

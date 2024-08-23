@@ -1,12 +1,13 @@
 import React from 'react';
 import Project from '../components/Project';
+import "../css/portfolio.css";
 
 const projects = [
   {
-    title: 'Project One',
+    title: 'Weather App',
     image: 'path-to-image.jpg',
-    deployedLink: 'http://deployed-app.com',
-    githubLink: 'http://github.com/repo'
+    deployedLink: 'https://nmahban.github.io/weatherapp/',
+    githubLink: 'https://github.com/nmahban/weatherapp'
   },
  
 ];
